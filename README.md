@@ -71,6 +71,7 @@ I am a Software Developer living amongst the corn in Illinois, USA.
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-original.svg" title="Karma" alt="Karma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -108,6 +109,6 @@ I am a Software Developer living amongst the corn in Illinois, USA.
 
 ### 🔥 My Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvanWieland&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000)]([https://git.io/streak-stats](https://github.com/EvanWieland))
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvanWieland&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://github.com/EvanWieland)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanwieland&layout=compact&theme=vision-friendly-dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/EvanWieland))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanwieland&layout=compact&theme=vision-friendly-dark)](https://github.com/EvanWieland)
