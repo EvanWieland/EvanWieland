@@ -108,6 +108,6 @@ I am a Software Developer living amongst the corn in Illinois, USA.
 
 ### 🔥 My Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvanWieland&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvanWieland&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000)]([https://git.io/streak-stats](https://github.com/EvanWieland))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanwieland&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanwieland&layout=compact&theme=vision-friendly-dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/EvanWieland))
