@@ -18,7 +18,7 @@
 
 ### 👋 About Me
 
-I am a Software Developer living amongst the corn in Illinois, USA.
+I am a Software Developer living amongst the 🌽 in Illinois.
 
 - 👨‍💻 I'm working as a Software Developer for 🏢 Caterpillar, Inc.
 
