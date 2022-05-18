@@ -1,10 +1,16 @@
 <div id="header" align="center">
-<!--   <img src="https://raw.githubusercontent.com/EvanWieland/EvanWieland/5e5c695ebd8d042543acce2fdaed9e7c59df4ba1/assets/profile.jpg" width="200"> -->
+  <img src="https://raw.githubusercontent.com/EvanWieland/EvanWieland/5e5c695ebd8d042543acce2fdaed9e7c59df4ba1/assets/profile.jpg" width="200">
+  <div id="badges">
+    <br>
+    <a href="https://www.linkedin.com/in/evan-w/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </div>
 
 ---
 
-### About Me
+### 👋 About Me
 
 I am a Software Developer living amongst the corn in Illinois, USA.
 
@@ -18,7 +24,7 @@ I am a Software Developer living amongst the corn in Illinois, USA.
 
 ---
 
-### Some Interests of Mine
+### 📑 Some Interests of Mine
 
 - Learning how to write machine code for my [1985 Commodore VIC-20](https://en.wikipedia.org/wiki/Commodore_VIC-20)'s MOS 6502 CPU.
 - Building native applications with the power couple [Flutter](https://flutter.dev/) and [Firebase](https://firebase.google.com/).
@@ -29,7 +35,7 @@ I am a Software Developer living amongst the corn in Illinois, USA.
 
 ---
 
-### Some Skills
+### 🛠️ Some Skills
 
 #### Languages & Frameworks & Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
@@ -91,3 +97,11 @@ I am a Software Developer living amongst the corn in Illinois, USA.
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
+
+---
+
+### 🔥 My Activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvanWieland&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanwieland&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
