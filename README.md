@@ -5,7 +5,7 @@
   <img src="assets/boot-day.svg" width="100%" alt="An 8-bit computer loads and runs this README, then prints: Evan Wieland. Compilers, AI video loops and human approval for agents. READY.">
 </picture>
 
-I'm Evan, and I like making small machines do big jobs, like rendering 4K video loops on a 6 GB laptop GPU. For fun, I write BASIC on a Commodore VIC-20, which boots with 3,583 bytes free.
+I'm Evan, and I like making small machines do big jobs, like rendering 4K video loops on a 6 GB laptop GPU, or writing BASIC on a Commodore VIC-20 that boots with 3,583 bytes free.
 
 ### worldloom
 
