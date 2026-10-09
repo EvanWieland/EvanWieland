@@ -33,6 +33,41 @@ func mast : int {
 }
 ```
 
+Here's the LLVM IR Pudl prints for that program with `--print-ir`. Its optimization passes have rewritten `n <= 1` as `n < 2` and merged the two returns into one block with a phi node.
+
+```llvm
+; ModuleID = 'pudl compiler'
+source_filename = "pudl compiler"
+
+@.formati = private constant [4 x i8] c"%d\0A\00"
+@.formatf = private constant [4 x i8] c"%f\0A\00"
+
+declare i32 @printf(ptr, ...)
+
+define i32 @fact(i32 %n) {
+entry:
+  %0 = icmp slt i32 %n, 2
+  br i1 %0, label %common.ret, label %Else
+
+common.ret:                                       ; preds = %entry, %Else
+  %common.ret.op = phi i32 [ %3, %Else ], [ 1, %entry ]
+  ret i32 %common.ret.op
+
+Else:                                             ; preds = %entry
+  %1 = add nsw i32 %n, -1
+  %2 = call i32 @fact(i32 %1)
+  %3 = mul i32 %2, %n
+  br label %common.ret
+}
+
+define i32 @mast() {
+entry:
+  %0 = call i32 @fact(i32 5)
+  %1 = call i32 (ptr, ...) @printf(ptr noundef nonnull dereferenceable(1) @.formati, i32 %0)
+  ret i32 0
+}
+```
+
 ### Brezia
 
 [Brezia](https://github.com/brezia/brezia) is an open-source approval layer for AI agents. Routine tool calls like reads and searches clear on their own under a policy you write once, the ones that need a person wait in a local inbox, and every decision goes into a hash-chained audit log. It works with Claude Code, runs entirely on localhost, and if the daemon goes down, the agent falls back to its own permission prompts.
